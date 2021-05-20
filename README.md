@@ -14,3 +14,11 @@ Files edited in each project:
 * P1:
   * search.py
   * searchAgents.py
+
+* P2:
+  * multiAgents.py
+
+* P3:
+  * qLearningAgents.py
+  * valueIterationAgents.py
+  * analysis.py
