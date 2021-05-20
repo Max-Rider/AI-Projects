@@ -2,9 +2,9 @@
 
 Collection fo the projects completed for the UML AI Course COMP 4200.
 
-P1. Search Strategies
-P2. Multi Agent Search
-P3. Reinforcement Learning
+1. P1. Search Strategies
+2. P2. Multi Agent Search
+3. P3. Reinforcement Learning
 
 These projects were completed in Python v3.6 due to the autograder file only working in this version of Python. The non-autograder files shoud still run in newer versions of Python but if they dont work then try using v3.6 and it will work then.
 
